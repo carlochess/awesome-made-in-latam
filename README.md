@@ -22,12 +22,12 @@ Awesome projects made in Latino America
 
 | Project | Description | Author | |
 |--|--|--|--|
-| [IPython](https://github.com/ipython/ipython) | IPython provides a rich toolkit to help you make the most of using Python interactively. Its main components are: | :colombia: [Fernando Perez](http://fperez.org/personal.html) | ![Stars](https://img.shields.io/github/stars/ipython/ipython.svg?style=flat-square) |
+| [IPython](https://github.com/ipython/ipython) | IPython provides a rich toolkit to help you make the most of using Python interactively. Watch this [talk (Spanish)](https://www.youtube.com/watch?v=XFynShM1xLU) | :colombia: [Fernando Perez](http://fperez.org/personal.html) | ![Stars](https://img.shields.io/github/stars/ipython/ipython.svg?style=flat-square) |
 
 
 ## Thanks
 
-- ColombiaDev
+- :colombia: ColombiaDev
 - [🇷🇺 awesome-made-by-russians](https://github.com/gaearon/awesome-made-by-russians) to some ideas.
 - [:brazil: awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) for some ideas.
 
