@@ -17,6 +17,13 @@ Awesome projects made in Latino America
 - [vim](#vim)
 - [Misc](#misc)
 
+<a name="python"></a>
+### Python
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [fastapi](https://github.com/tiangolo/fastapi) | FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. | :colombia: [Sebastián Ramírez](https://tiangolo.com/) | ![Stars](https://img.shields.io/github/stars/tiangolo/fastapi.svg?style=flat-square) |
+
 <a name="tools"></a>
 ### Tools
 
