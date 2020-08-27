@@ -31,6 +31,13 @@ Awesome projects made in Latino America
 |--|--|--|--|
 | [IPython](https://github.com/ipython/ipython) | IPython provides a rich toolkit to help you make the most of using Python interactively. Watch this [talk (Spanish)](https://www.youtube.com/watch?v=XFynShM1xLU) | :colombia: [Fernando Perez](http://fperez.org/personal.html) | ![Stars](https://img.shields.io/github/stars/ipython/ipython.svg?style=flat-square) |
 
+<a name="misc"></a>
+### Misc
+
+| Project | Description | Author | |
+|--|--|--|--|
+| [Openapi](https://github.com/OAI/OpenAPI-Specification/) | The OpenAPI Specification is a community-driven open specification within the OpenAPI Initiative, a Linux Foundation Collaborative Project. | :colombia: [Gustavo Paz](https://www.apollo.io/people/Gustavo/Paz/5d564384f651254ded27c7b3) | ![Stars](https://img.shields.io/github/stars/OAI/OpenAPI-Specification.svg?style=flat-square) |
+
 
 ## Thanks
 
